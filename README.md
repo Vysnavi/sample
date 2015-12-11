@@ -1,3 +1,3 @@
 # sample
-hellooo world!!!!
+hello world!!!!
  This is my first doc.
